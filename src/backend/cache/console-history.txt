@@ -1,0 +1,10 @@
+const name = await contract.name()
+tokenCount
+const tokenCount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+global
+NFT
+const contract = await ethres getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+exit()
+exit
